@@ -10,7 +10,7 @@ The objective of this project was to complete the following tasks:
 
 ## Key Measures
 
-The following four measures from the key measures table were identified as crucial for presenting the company's growth story:
+The following four KPIs from the key measures table were identified as crucial for presenting the company's growth story:
 
 - **Revenue**
 - **Revenue YoY%**
