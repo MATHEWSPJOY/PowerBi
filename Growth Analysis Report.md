@@ -1,5 +1,7 @@
 # Power BI - Bicycle Company Growth Analysis Report
 
+### Dashboard Link : https://app.powerbi.com/groups/571bb2c8-c6b7-4eb8-b5e0-5495f5330421/reports/f3b99db6-15fb-4db4-8b39-c0269a2c80cd/ReportSectione6684886799eaec19e2e?experience=power-bi
+
 ## Objective
 
 The objective of this project was to complete the following tasks:
