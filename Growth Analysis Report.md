@@ -6,7 +6,7 @@ The objective of this project was to complete the following tasks:
 
 1. **Review the Dataset**: Analyze the dataset to identify the key measures needed to support the data story.
 2. **Create a Multi-Page Report**: Develop a comprehensive multi-page report in Power BI Desktop, incorporating appropriate charts to effectively present the data story.
-3. **Convey Insights**: Identify and highlight key insights to convey to the CEO and other stakeholders.
+3. **Convey Insights**: Identify and highlight key insights to convey to the key stakeholders.
 
 ## Key Measures
 
