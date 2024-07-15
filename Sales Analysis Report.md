@@ -1,5 +1,5 @@
 # Power BI Sales Analysis Report
-### Dashboard Link: [View Dashboard]https://app.powerbi.com/groups/571bb2c8-c6b7-4eb8-b5e0-5495f5330421/reports/c9cf4d23-11e5-4ab0-8515-ac9997612305/ReportSection5a92972a1183b3874520?experience=power-bi
+### Dashboard Link: [View Dashboard](https://app.powerbi.com/groups/571bb2c8-c6b7-4eb8-b5e0-5495f5330421/reports/c9cf4d23-11e5-4ab0-8515-ac9997612305/ReportSection5a92972a1183b3874520?experience=power-bi)
 ## Overview
 
 This Power BI project file contains two comprehensive report pages: **Products** and **Categories**. Each page is designed to provide valuable insights into various aspects of sales performance, with a focus on products and their categories. Below are the detailed descriptions of the visuals and insights presented on each page.
