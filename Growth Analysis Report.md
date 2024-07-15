@@ -1,6 +1,10 @@
 # Power BI - Growth Analysis Report
 
-### Dashboard Link : https://app.powerbi.com/groups/571bb2c8-c6b7-4eb8-b5e0-5495f5330421/reports/f3b99db6-15fb-4db4-8b39-c0269a2c80cd/ReportSectione6684886799eaec19e2e?experience=power-bi
+### Dashboard Link: [View Dashboard](https://app.powerbi.com/groups/571bb2c8-c6b7-4eb8-b5e0-5495f5330421/reports/f3b99db6-15fb-4db4-8b39-c0269a2c80cd/ReportSectione6684886799eaec19e2e?experience=power-bi)
+
+## Overview
+
+This Power BI project file contains a detailed multi-page report designed to present a clear and comprehensive analysis of the company's growth over recent years. The report is structured to highlight key metrics and insights, providing stakeholders with an easy-to-understand narrative.
 
 ## Objective
 
