@@ -1,6 +1,6 @@
 # Power BI - Growth Analysis Report
 
-### Dashboard Link: [View Dashboard](https://app.powerbi.com/groups/571bb2c8-c6b7-4eb8-b5e0-5495f5330421/reports/f3b99db6-15fb-4db4-8b39-c0269a2c80cd/ReportSection7deeeaddab86ad941047?experience=power-bi)
+### Dashboard Link: [View Dashboard](https://app.powerbi.com/links/5mi_YIF_vu?ctid=ede29655-d097-42e4-bbb5-f38d427fbfb8&pbi_source=linkShare)
 
 [Please download the Power BI file (.pbix) or PowerPoint file (.pptx) to view the dashboard]
 
