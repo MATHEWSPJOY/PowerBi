@@ -2,6 +2,9 @@
 
 Welcome to the Combat Elite Power BI Report repository. This document provides an overview of the insights, recommendations, and data management strategies used in our Power BI reports to analyze user behavior, spending patterns, and game mode preferences in Combat Elite.
 
+### Dashboard Link: [View Dashboard](https://app.powerbi.com/groups/571bb2c8-c6b7-4eb8-b5e0-5495f5330421/reports/6b0bf38f-367e-4a9d-a7c1-b441b0ada9a8/29c8c83dd57a5803e962?experience=power-bi)
+[Please download the Power BI file (.pbix) or PowerPoint file (.pptx) to view the dashboard]
+
 ## Introduction
 
 Combat Elite is a multiplayer game featuring 4-player matches where players can compete against others or bots. The game offers three types of matches in a rotating cycle and provides various in-app purchases (IAPs) as well as virtual currency, Gold, which can be used for purchasing boosts and other in-game benefits.
